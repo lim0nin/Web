@@ -1,0 +1,20 @@
+2024-05-10 18:32:27.961 [info] 
+
+
+
+
+2024-05-10 18:32:28.011 [info] Extension host agent started.
+2024-05-10 18:32:28.262 [info] [127.0.0.1][91fd5d1c][ManagementConnection] New connection established.
+2024-05-10 18:32:29.998 [info] [127.0.0.1][012c2a8f][ExtensionHostConnection] New connection established.
+2024-05-10 18:32:30.204 [info] [127.0.0.1][012c2a8f][ExtensionHostConnection] <3085> Launched Extension Host Process.
+2024-05-10 18:38:47.595 [info] Getting Manifest... ritwickdey.liveserver
+2024-05-10 18:38:51.311 [info] Installing extension: ritwickdey.liveserver
+2024-05-10 18:39:40.014 [info] Extension signature verification result for ritwickdey.liveserver: Success. Duration: 9924ms.
+2024-05-10 18:39:51.841 [info] Extracted extension to file:///home/limonin/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-05-10 18:39:51.870 [info] Renamed to /home/limonin/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-05-10 18:39:51.875 [info] Extracting extension completed. ritwickdey.liveserver
+2024-05-10 18:39:51.902 [info] Extension installed successfully: ritwickdey.liveserver
+2024-05-10 18:41:13.138 [info] [127.0.0.1][012c2a8f][ExtensionHostConnection] <3085> [0mGET /favicon.ico [33m404[0m 4.420 ms - 150[0m
+
+2024-05-10 19:29:08.375 [info] [127.0.0.1][91fd5d1c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-10 19:29:08.657 [info] [127.0.0.1][012c2a8f][ExtensionHostConnection] <3085> Extension Host Process exited with code: 0, signal: null.

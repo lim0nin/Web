@@ -1,0 +1,15 @@
+2024-05-10 18:32:32.008 [info] Extension host with pid 3085 started
+2024-05-10 18:32:32.052 [info] Lock '/home/limonin/.vscode-server/data/User/workspaceStorage/96e01e3a329586d7c93d4dd62db94dde/vscode.lock': Lock acquired.
+2024-05-10 18:32:32.942 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-10 18:32:33.003 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-10 18:32:33.004 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-10 18:32:33.786 [info] Eager extensions activated
+2024-05-10 18:32:33.787 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-10 18:32:33.788 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-10 18:32:35.127 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-05-10 18:32:35.128 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-10 18:39:52.245 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-05-10 18:41:05.591 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-05-10 19:29:08.351 [info] Extension host terminating: received terminate message from renderer
+2024-05-10 19:29:08.353 [info] Lock '/home/limonin/.vscode-server/data/User/workspaceStorage/96e01e3a329586d7c93d4dd62db94dde/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-05-10 19:29:08.601 [info] Extension host with pid 3085 exiting with code 0
